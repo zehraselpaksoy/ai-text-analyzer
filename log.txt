@@ -1,0 +1,214 @@
+Root endpoint called
+Health check requested
+Analyze endpoint called
+Analyze endpoint called
+Analyze endpoint called
+Analyze endpoint called
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Error: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ZEHRA ASEL/nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\share\\nltk_data'
+    - 'D:\\ai-text-analyzer\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ZEHRA ASEL\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+Analyze endpoint called
+Root endpoint called
+Analyze (form) endpoint called
+Root endpoint called
+Root endpoint called
+Root endpoint called
+Root endpoint called
+Analyze (form) endpoint called
+Root endpoint called
+Analyze (form) endpoint called
+Root endpoint called
+Root endpoint called
+Root endpoint called
+Root endpoint called
+Root endpoint called
+Analyze (form) endpoint called

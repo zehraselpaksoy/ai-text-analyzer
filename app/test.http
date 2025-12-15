@@ -1,0 +1,16 @@
+### Test Root Endpoint
+GET http://127.0.0.1:8000/
+
+### Test Health Endpoint
+GET http://127.0.0.1:8000/health
+
+### Test Analyze Endpoint
+POST http://127.0.0.1:8000/analyze
+Content-Type: application/json
+
+{
+  "text": "Merhaba dünya. Bu bir test metnidir. Python ve AI çok güzel!"
+}
+
+### Test Stats Endpoint
+GET http://127.0.0.1:8000/stats

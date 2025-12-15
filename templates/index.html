@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🎄 AI Text Analyzer 🎄</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            background: url(https://media.istockphoto.com/id/1778042096/tr/video/in-the-serene-forest-a-christmas-tree-stands-tall-its-branches-adorned-with-twinkling-lights.jpg?s=640x640&k=20&c=fa9BOPpCrMKdnfXN0gskIF8i6SQE1ij_j5kvZ2rALqQ=) no-repeat center center fixed;
+            background-size: cover;
+            overflow: hidden;
+            color: white;
+            text-align: center;
+        }
+
+        h2 {
+            margin-top: 50px;
+            font-size: 48px;
+            text-shadow: 2px 2px 5px #000;
+        }
+
+        form {
+            margin-top: 50px;
+        }
+
+        textarea {
+            width: 60%;
+            height: 150px;
+            padding: 10px;
+            border-radius: 10px;
+            border: none;
+            font-size: 16px;
+            resize: none;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 10px 25px;
+            font-size: 18px;
+            border-radius: 10px;
+            border: none;
+            background-color: #d32f2f;
+            color: white;
+            cursor: pointer;
+            box-shadow: 2px 2px 5px #000;
+        }
+
+        button:hover {
+            background-color: #b71c1c;
+        }
+
+        /* Kar taneleri animasyonu */
+        .snowflake {
+            position: absolute;
+            top: -10px;
+            color: white;
+            font-size: 1em;
+            user-select: none;
+            z-index: 9999;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>🎄 AI Text Analyzer 🎅</h2>
+
+    <form action="/analyze_form" method="post">
+        <textarea name="text" placeholder="Metni buraya yazın"></textarea><br>
+        <button type="submit">Analiz Et</button>
+    </form>
+
+    <script>
+        // Kar taneleri animasyonu
+        const snowCount = 50;
+
+        for(let i=0; i<snowCount; i++){
+            let snow = document.createElement('div');
+            snow.className = 'snowflake';
+            snow.innerText = '❄';
+            snow.style.left = Math.random() * window.innerWidth + 'px';
+            snow.style.fontSize = 10 + Math.random() * 20 + 'px';
+            snow.style.animationDuration = 5 + Math.random() * 5 + 's';
+            snow.style.opacity = Math.random();
+            document.body.appendChild(snow);
+        }
+
+        const flakes = document.querySelectorAll('.snowflake');
+        flakes.forEach(f => {
+            f.animate([
+                { transform: `translateY(0px)` },
+                { transform: `translateY(${window.innerHeight + 20}px)` }
+            ], {
+                duration: parseFloat(f.style.animationDuration) * 1000,
+                iterations: Infinity,
+                direction: 'normal'
+            });
+        });
+    </script>
+</body>
+</html>

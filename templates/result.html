@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🎄 Sonuç - AI Text Analyzer 🎄</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom, #ffefef, #ffe6e6);
+            text-align: center;
+            padding: 50px;
+        }
+        h2 {
+            color: #d32f2f;
+            text-shadow: 1px 1px 2px #fff;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #d32f2f;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            box-shadow: 2px 2px 5px #aaa;
+        }
+        a:hover {
+            background-color: #b71c1c;
+        }
+        .decor {
+            font-size: 40px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="decor">❄️🎅🎄</div>
+    <h2>Sonuç</h2>
+    <p><strong>Kelime Sayısı:</strong> {{ result.word_count }}</p>
+    <p><strong>Cümle Sayısı:</strong> {{ result.sentence_count }}</p>
+    <p><strong>En Sık Kullanılan Kelimeler:</strong> {{ result.most_common_words }}</p>
+    <p><strong>Özet:</strong> {{ result.summary }}</p>
+    <a href="/">Yeni analiz</a>
+    <div class="decor">🎄🎁❄️</div>
+</body>
+</html>
